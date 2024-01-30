@@ -10,6 +10,7 @@
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [CSS](https://www.w3schools.com/css/default.asp)
   - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+  - [Demo of Peak 90s Web Design](./the90s.html)
 
 
 # Navigation Menu (NavBar)
