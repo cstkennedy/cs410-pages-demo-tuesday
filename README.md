@@ -5,6 +5,13 @@
   - [Slate Theme](https://github.com/pages-themes/slate?tab=readme-ov-file#usage)
 
 
+## HTML & CSS References
+
+  - [HTML](https://www.w3schools.com/html/default.asp)
+  - [CSS](https://www.w3schools.com/css/default.asp)
+  - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+
+
 # Navigation Menu (NavBar)
 
   - [Announcement (29 January)](./2024.01.29.Recitation.This.Week)
